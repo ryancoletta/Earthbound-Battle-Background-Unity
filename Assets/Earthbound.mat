@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Earthbound
+  m_Shader: {fileID: 4800000, guid: b5d0b0aae6ed5aa44a6484be55761fd7, type: 3}
+  m_ShaderKeywords: _BLEND_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 7c4773ac0b407e84bab3341879da2f96, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex2:
+        m_Texture: {fileID: 2800000, guid: 9d6d196060092374f9f1fcd81fc6f9e3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TexA:
+        m_Texture: {fileID: 2800000, guid: 7c4773ac0b407e84bab3341879da2f96, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TexB:
+        m_Texture: {fileID: 2800000, guid: 9d6d196060092374f9f1fcd81fc6f9e3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _A: 0
+    - _B: 0
+    - _Blend: 1
+    - _OscillationAmplitude: 100
+    - _OscillationAmplitudeA: 32
+    - _OscillationAmplitudeB: 128
+    - _OscillationDelay: 8
+    - _OscillationDelayA: 1
+    - _OscillationDelayB: 1
+    - _OscillationSpeed: 1
+    - _OscillationSpeedA: 1
+    - _OscillationSpeedB: 0.5
+    - _OscillationVariant: 3
+    - _OscillationVariant2: 0
+    - _OscillationVariantA: 3
+    - _OscillationVariantB: 3
+    - _ScrollDirX: 2.54
+    - _ScrollDirXA: 1
+    - _ScrollDirXB: 1
+    - _ScrollDirY: 1
+    - _ScrollDirYA: 1
+    - _ScrollDirYB: 1
+    - _ScrollSpeed: 0.1
+    - _ScrollSpeedA: 0
+    - _ScrollSpeedB: 0
+    m_Colors: []
